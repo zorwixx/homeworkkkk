@@ -27,3 +27,4 @@ print(f"Оцінка студента {student.name}: {grade}")
 
 
 
+
